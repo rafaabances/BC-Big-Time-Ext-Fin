@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-ES" original="BC Big Time Ext Fin">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 668113791 - Field 4231780600 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Código de Artista</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Artist-Event - Field Artist Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 668113791 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Artist-Event - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 668113791 - Field 193821039 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nº Evento</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Artist-Event - Field No Event - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3405339441 - Field 4231780600 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Código de Artista</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Artists - Field Artist Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3405339441 - Field 678622840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Proveedor Asociado</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Artists - Field Associated Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3405339441 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Artists - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3535325838 - Field 861216201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nº de Eventos Confirmados</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Event Cue - Field Number Confirmed Events - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3535325838 - Field 3998705371 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nº de Eventos en Borrador</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Event Cue - Field Number Draft Events - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3535325838 - Field 3770854088 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nº de Eventos</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Event Cue - Field Number Events - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3535325838 - Field 2663053754 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nº de Eventos Finalizados</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Event Cue - Field Number Finished Events - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3535325838 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Event Cue - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3115461638 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Eventos</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Events - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3115461638 - NamedType 2467171890" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No esta permitido borrar cuando el evento está en estado %1</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Events - NamedType vText50000</note>
+        </trans-unit>
+        <trans-unit id="Table 3115461638 - Field 876755377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Código Esquema Cuentas</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Events - Field ACC. Schedule Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3115461638 - Field 4169368700 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Código Presupuesto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Events - Field Budget Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3115461638 - Field 3676636176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aforo</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Events - Field Capacity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3115461638 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ciudad</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Events - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3115461638 - Field 1856816140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>País</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Events - Field Country - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3115461638 - Field 2649176925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha Final</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Events - Field End Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3115461638 - Field 3891454143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ubicación</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Events - Field Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3115461638 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Events - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3115461638 - Field 193821039 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nº Evento</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Events - Field No Event - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3115461638 - Field 474480784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha Inicio</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Events - Field Start Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3115461638 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Estado</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Events - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3115461638 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tipo</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Events - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2467499335 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Conf. Eventos</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Events SetUp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2467499335 - Field 876755377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Código Esquema Cuentas</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Events SetUp - Field ACC. Schedule Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2467499335 - Field 4169368700 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Código Presuspuesto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Events SetUp - Field Budget Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2467499335 - Field 1761063686 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filtro Cuentas de Gastos</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Events SetUp - Field Def Exp Control Acc. Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2467499335 - Field 1255576338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filtro Cuentas de Ingresos</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Events SetUp - Field Def Rev Control Acc. Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2467499335 - Field 4052002419 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Código de Dimensión para Evento</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Events SetUp - Field Event Dimension Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2467499335 - Field 3926295122 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No Series Evento</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Events SetUp - Field Event No Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2467499335 - Field 637863499 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clave Primaria</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Events SetUp - Field Primary Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2907534148 - Field 3676636176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aforo</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Location - Field Capacity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2907534148 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ciudad</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Location - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2907534148 - Field 1856816140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>País</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Location - Field Country - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2907534148 - Field 3891454143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ubicación</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Location - Field Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2907534148 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Location - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2907534148 - Field 3660300303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Código Postal</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Location - Field Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2907534148 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tipo</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Del Location - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1986105503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UserEvent</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table UserEvent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1986105503 - Field 477637143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EventNo</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table UserEvent - Field EventNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1986105503 - Field 1814464443 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table UserEvent - Field User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3581233725 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Del Artists Card</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Artists Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3581233725 - Control 4231780600 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Código de Artista field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Artists Card - Control Artist Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3581233725 - Control 678622840 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Proveedor Asociado field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Artists Card - Control Associated Vendor - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3581233725 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Nombre field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Artists Card - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3908893671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lista de Artistas</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Artists List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3908893671 - Control 4231780600 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Código de Artista field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Artists List - Control Artist Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3908893671 - Control 678622840 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Proveedor Asociado field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Artists List - Control Associated Vendor - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3908893671 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Nombre field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Artists List - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3332159094 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lista de Artistas</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Artists List part - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3332159094 - Control 4231780600 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Código de Artista field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Artists List part - Control Artist Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3332159094 - Control 678622840 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Proveedor Asociado field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Artists List part - Control Associated Vendor - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3332159094 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Nombre field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Artists List part - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1557545680 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lista de Artistas-Eventos</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Artists-Event List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1557545680 - Control 4231780600 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Código de Artista field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Artists-Event List - Control Artist Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1557545680 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Nombre field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Artists-Event List - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3935604357 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lista de Eventos</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3935604357 - Control 876755377 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Código Esquema Cuentas field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List - Control ACC. Schedule Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3935604357 - Control 4169368700 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Código presupuesto field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List - Control Budget Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3935604357 - Control 3676636176 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Aforo field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List - Control Capacity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3935604357 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ciudad field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3935604357 - Control 1856816140 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the País field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List - Control Country - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3935604357 - Control 2649176925 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Fecha Final field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List - Control End Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3935604357 - Control 1555821037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expenses Bud. By Event</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Gastos Prep. por Evento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List - Control Expenses - Property Caption</note>
+          <target>Gastos Prep. por Evento</target>
+        </trans-unit>
+        <trans-unit id="Page 3935604357 - Control 4287632779 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expenses Real By Event</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Gastos Reales por Evento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List - Control ExpensesReal - Property Caption</note>
+          <target>Gastos Reales por Evento</target>
+        </trans-unit>
+        <trans-unit id="Page 3935604357 - Control 3891454143 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ubicación field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List - Control Location - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3935604357 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Nombre field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3935604357 - Control 193821039 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Nº Evento field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List - Control No Event - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3935604357 - Control 388667246 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Revenue Bud. By Event</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Ingresos Prep. por Evento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List - Control Revenue - Property Caption</note>
+          <target>Ingresos Prep. por Evento</target>
+        </trans-unit>
+        <trans-unit id="Page 3935604357 - Control 1525026572 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Revenue Real By Event</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Ingresos Reales por Evento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List - Control RevenueReal - Property Caption</note>
+          <target>Ingresos Reales por Evento</target>
+        </trans-unit>
+        <trans-unit id="Page 3935604357 - Control 474480784 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Fecha Inicio field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List - Control Start Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3935604357 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Código Esquema Cuentas field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3935604357 - Control 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tipo field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List - Control Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 245413688 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lista de Eventos</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List Part - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 245413688 - Control 876755377 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Código Esquema Cuentas field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List Part - Control ACC. Schedule Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 245413688 - Control 4169368700 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Código presupuesto field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List Part - Control Budget Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 245413688 - Control 3676636176 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Aforo field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List Part - Control Capacity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 245413688 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ciudad field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List Part - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 245413688 - Control 1856816140 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the País field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List Part - Control Country - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 245413688 - Control 2649176925 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Fecha Final field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List Part - Control End Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 245413688 - Control 1555821037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expenses Bud. By Event</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Gastos Prep. por Evento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List Part - Control Expenses - Property Caption</note>
+          <target>Gastos Prep. por Evento</target>
+        </trans-unit>
+        <trans-unit id="Page 245413688 - Control 4287632779 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expenses Real By Event</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Gastos Reales por Evento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List Part - Control ExpensesReal - Property Caption</note>
+          <target>Gastos Reales por Evento</target>
+        </trans-unit>
+        <trans-unit id="Page 245413688 - Control 3891454143 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ubicación field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List Part - Control Location - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 245413688 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Nombre field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List Part - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 245413688 - Control 193821039 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Nº Evento field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List Part - Control No Event - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 245413688 - Control 388667246 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Revenue Bud. By Event</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Ingresos Prep. por Evento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List Part - Control Revenue - Property Caption</note>
+          <target>Ingresos Prep. por Evento</target>
+        </trans-unit>
+        <trans-unit id="Page 245413688 - Control 1525026572 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Revenue Real By Event</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Ingresos Reales por Evento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List Part - Control RevenueReal - Property Caption</note>
+          <target>Ingresos Reales por Evento</target>
+        </trans-unit>
+        <trans-unit id="Page 245413688 - Control 474480784 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Fecha Inicio field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List Part - Control Start Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 245413688 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Código Esquema Cuentas field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List Part - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 245413688 - Control 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tipo field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Event List Part - Control Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3225365858 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ficha de Eventos</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3225365858 - Control 876755377 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Código Esquema Cuentas field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Card - Control ACC. Schedule Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3225365858 - Control 4169368700 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Código presupuesto field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Card - Control Budget Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3225365858 - Control 3676636176 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Aforo field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Card - Control Capacity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3225365858 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ciudad field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Card - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3225365858 - Control 1856816140 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the País field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Card - Control Country - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3225365858 - Control 2649176925 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Fecha Final field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Card - Control End Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3225365858 - Control 1555821037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expenses Bud. By Event</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Gastos Prep. por Evento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Card - Control Expenses - Property Caption</note>
+          <target>Gastos Prep. por Evento</target>
+        </trans-unit>
+        <trans-unit id="Page 3225365858 - Control 4287632779 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expenses Real By Event</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Gastos Reales por Evento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Card - Control ExpensesReal - Property Caption</note>
+          <target>Gastos Reales por Evento</target>
+        </trans-unit>
+        <trans-unit id="Page 3225365858 - Control 3891454143 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ubicación field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Card - Control Location - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3225365858 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Nombre field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Card - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3225365858 - Control 193821039 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Nº Evento field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Card - Control No Event - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3225365858 - Control 388667246 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Revenue Bud. By Event</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Ingresos Prep. por Evento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Card - Control Revenue - Property Caption</note>
+          <target>Ingresos Prep. por Evento</target>
+        </trans-unit>
+        <trans-unit id="Page 3225365858 - Control 1525026572 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Revenue Real By Event</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Ingresos Reales por Evento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Card - Control RevenueReal - Property Caption</note>
+          <target>Ingresos Reales por Evento</target>
+        </trans-unit>
+        <trans-unit id="Page 3225365858 - Control 474480784 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Fecha Inicio field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Card - Control Start Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3225365858 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Código Esquema Cuentas field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Card - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3225365858 - Control 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tipo field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Card - Control Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3225365858 - Action 3747271888 - Method 1377591017 - NamedType 652464844" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El estado está en %1, debe estar en confirmado para poder Finalizarlo</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Card - Action Finalizar - Method OnAction - NamedType Text50000</note>
+        </trans-unit>
+        <trans-unit id="Page 3225365858 - Action 1099222742 - Method 1377591017 - NamedType 14768227" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El estado está en %1, debe estar en confirmado o Finalizado para poder marcar como Borrador</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Card - Action Inicializar Evento - Method OnAction - NamedType Text50001</note>
+        </trans-unit>
+        <trans-unit id="Page 1789321147 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Actividades</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events CardPart - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1789321147 - Control 3419015742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Control de Eventos</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events CardPart - Control For Release - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1789321147 - Control 861216201 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Nº de Eventos Confirmados</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events CardPart - Control Number Confirmed Events - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1789321147 - Control 3998705371 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Nº de Eventos en Borrador</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events CardPart - Control Number Draft Events - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1789321147 - Control 3770854088 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Nº de Eventos</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events CardPart - Control Number Events - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1789321147 - Control 2663053754 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Nº de Eventos Finalizados</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events CardPart - Control Number Finished Events - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Del Events Role Center</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 537970653 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Otras Configuraciones</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action Other SetUp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 881177948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensiones</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action Dimension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 339962132 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Valores de Dimension Evento</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action Dimension Values - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 2005578726 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Administración de Extensiones</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action Extension Management - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 4050813720 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Configuración de Contabilidad</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action General Ledger Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 2016361646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nº de Serie</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action No Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 739346273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Acciones</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 91434574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Artistas</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action Artists - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 1821775217 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Eventos</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action Events - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 2823918753 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Configuración de cuentas</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action Group0 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 3225894500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Esquema de Cuentas</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action Account Schedule Names - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 998576599 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vistas de Análisis</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action Analysis View List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 3105459369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plan de Cuentas</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action Chart of Accounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 1451408208 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Diseño de Columnas</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action Column Layout - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 3461615370 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Presupuestos y Mov. Conta</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action Group1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 4052886773 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Movimientos Contabilidad de Presupuesto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action G/L Budget Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 4098937927 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Presupuestos</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action G/L Budget Names - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 1548525519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Facturación</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action Group2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 1887905131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mov. de Contabilidad</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action General Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 407220332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Facturas Compra Registradas</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action Posted Purchase Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 3434938165 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Facturas Venta Registradas</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action Posted Sales Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 4037192291 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Facturas Compra</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action Purchase Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 561208485 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Facturas Venta</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action Sales Invoice List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 890861418 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Localizaciones</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action Locations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2450408255 - Action 3579970465 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Configuración Eventos</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Role Center - Action SetUp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3013969747 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Configuración Eventos</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events SetUp Conf - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3013969747 - Control 876755377 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ACC. Schedule Code field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events SetUp Conf - Control ACC. Schedule Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3013969747 - Control 4169368700 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Budget Code field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events SetUp Conf - Control Budget Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3013969747 - Control 4052002419 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Event Dimension Code field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events SetUp Conf - Control Event Dimension Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3013969747 - Control 3926295122 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Event No Series field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events SetUp Conf - Control Event No Series - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3013969747 - Control 2081145716 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Total Expenses Account field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events SetUp Conf - Control Total Expenses Account - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3013969747 - Control 1809159667 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Total Revenue Account field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Events SetUp Conf - Control Total Revenue Account - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3265026288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Del Location Card</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Location Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3265026288 - Control 3676636176 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Aforo field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Location Card - Control Capacity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3265026288 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ciudad field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Location Card - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3265026288 - Control 1856816140 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the País field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Location Card - Control Country - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3265026288 - Control 3891454143 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ubicación field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Location Card - Control Location - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3265026288 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Nombre field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Location Card - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3265026288 - Control 3660300303 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Código Postal field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Location Card - Control Post Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3265026288 - Control 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tipo field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Location Card - Control Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4013754838 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lista de Localizaciones</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Location List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4013754838 - Control 3676636176 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Aforo field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Location List - Control Capacity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4013754838 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ciudad field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Location List - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4013754838 - Control 1856816140 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the País field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Location List - Control Country - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4013754838 - Control 3891454143 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ubicación field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Location List - Control Location - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4013754838 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Nombre field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Location List - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4013754838 - Control 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tipo field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Location List - Control Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 786074527 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lista de Localizaciones</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Location List Part - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 786074527 - Control 3676636176 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Aforo field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Location List Part - Control Capacity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 786074527 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ciudad field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Location List Part - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 786074527 - Control 1856816140 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the País field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Location List Part - Control Country - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 786074527 - Control 3891454143 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ubicación field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Location List Part - Control Location - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 786074527 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Nombre field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Location List Part - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 786074527 - Control 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tipo field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Location List Part - Control Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Enum 110475845 - EnumValue 1045951643 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interior</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Del Location Enum - EnumValue Indoor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 110475845 - EnumValue 2760075220 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exterior</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Del Location Enum - EnumValue Outdoor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2496466826 - EnumValue 4141588837 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Confirmado</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Del Status Event Enum - EnumValue Confirmed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2496466826 - EnumValue 253238575 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Borrador</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Del Status Event Enum - EnumValue Draft - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2496466826 - EnumValue 293070022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finalizado</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Del Status Event Enum - EnumValue Finished - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2544213598 - EnumValue 3285972830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Concierto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Del Type Event Enum - EnumValue Concert - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2544213598 - EnumValue 3310733264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Evento</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Del Type Event Enum - EnumValue Event - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2544213598 - EnumValue 1206435770 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Festival</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Del Type Event Enum - EnumValue Festival - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

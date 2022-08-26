@@ -1,0 +1,30 @@
+{
+  "id": "fcfdd0c0-7d0b-4781-b0a7-8be9c3c19967",
+  "name": "BC Big Time Ext Fin",
+  "publisher": "Rafael Abances",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+    "idRanges": [
+    {
+      "from": 50000,
+      "to": 50099
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0",
+  "features": [ "TranslationFile" ]
+}
