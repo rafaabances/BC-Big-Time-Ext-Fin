@@ -33,9 +33,9 @@ table 50000 "Del Events"
             //         rlLocation: record "Del Location";
             //     begin
             //         if rlLocation.Get(Rec."Location") then // se puede poner el Rec. o no, significa el registro actual
-            //             Rec.Country := rlLocation.Country;
-            //         Rec.City := rlLocation.City;
-            //         // rec.Capacity := rlLocation.Capacity;
+            //           Rec.Country := rlLocation.Country;
+            //           Rec.City := rlLocation.City;
+            //           rec.Capacity := rlLocation.Capacity;
             //     end;
         }
         field(5; "Country"; code[10])

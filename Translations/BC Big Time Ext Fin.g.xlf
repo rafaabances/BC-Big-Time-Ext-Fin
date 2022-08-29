@@ -554,7 +554,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Card - Action Finalizar - Method OnAction - NamedType Text50000</note>
         </trans-unit>
         <trans-unit id="Page 3225365858 - Action 1099222742 - Method 1377591017 - NamedType 14768227" size-unit="char" translate="yes" xml:space="preserve">
-          <source>El estado está en %1, debe estar en confirmado o Finalizado para poder marcar como Borrador</source>
+          <source>El estado está en %1, debe estar en confirmado, en Preparación o Finalizado para poder marcar como Borrador</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Del Events Card - Action Inicializar Evento - Method OnAction - NamedType Text50001</note>
         </trans-unit>
@@ -887,6 +887,11 @@
           <source>Finalizado</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Del Status Event Enum - EnumValue Finished - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2496466826 - EnumValue 3298367546 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>En preparación</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Del Status Event Enum - EnumValue In preparation - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 2544213598 - EnumValue 3285972830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Concierto</source>

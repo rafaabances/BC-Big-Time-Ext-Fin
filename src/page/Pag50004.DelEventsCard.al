@@ -221,10 +221,10 @@ page 50004 "Del Events Card"
 
                 trigger OnAction()
                 var
-                    Text50001: Label 'El estado está en %1, debe estar en confirmado o Finalizado para poder marcar como Borrador';
+                    Text50001: Label 'El estado está en %1, debe estar en confirmado, en Preparación o Finalizado para poder marcar como Borrador';
 
                 begin
-                    if (rec.Status = rec.Status::Confirmed) or (rec.Status = rec.Status::Finished) then begin
+                    if (rec.Status = rec.Status::Confirmed) or (rec.Status = rec.Status::Finished) or (rec.Status = rec.Status::"In preparation") then begin
                         rec.Status := rec.Status::Draft;
                         rec.Modify();
                     end else
@@ -307,7 +307,7 @@ page 50004 "Del Events Card"
 
     local procedure TestEditable()
     begin
-        if (Rec.Status = Rec.Status::Draft) or (Rec.Status = Rec.Status::" ") then
+        if (Rec.Status = Rec.Status::Draft) or (Rec.Status = Rec.Status::" ") or (Rec.Status = Rec.Status::"In preparation") then
             Editable2 := true
         else
             Editable2 := false;

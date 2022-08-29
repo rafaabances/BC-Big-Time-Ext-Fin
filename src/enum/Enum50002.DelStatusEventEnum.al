@@ -10,13 +10,16 @@ enum 50002 "Del Status Event Enum"
     {
         Caption = 'Borrador';
     }
-
-    value(2; "Confirmed")
+    value(2; "In preparation")
+    {
+        Caption = 'En preparación';
+    }
+    value(3; "Confirmed")
     {
         Caption = 'Confirmado';
     }
 
-    value(3; "Finished")
+    value(4; "Finished")
     {
         Caption = 'Finalizado';
     }
